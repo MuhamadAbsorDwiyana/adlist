@@ -1,30 +1,31 @@
 #Tambahan untuk adblock list dari StevenBlack/host bawaan Pi-hole
 #Berdasarkan https://d3ward.github.io/toolz/adblock.html
 
-adtago.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
-analytics.s3.amazonaws.com
-advice-ads.s3.amazonaws.com
-advertising-api-eu.amazon.com
-app-measurement.com
-analytics.google.com
-click.googleanalytics.com
-events.hotjar.io
-freshmarketer.com
-fwtracks.freshmarketer.com
-notify.bugsnag.com
-sessions.bugsnag.com
-api.bugsnag.com
-app.bugsnag.com
-browser.sentry-cdn.com
-ads.pinterest.com
-log.pinterest.com
-analytics.pinterest.com
-widgets.pinterest.com
-log.byteoversea.com
-udc.yahoo.com
-udcm.yahoo.com
-analytics.query.yahoo.com
-partnerads.ysm.yahoo.com
-log.fc.yahoo.com
-webview.unityads.unity3d.com
+0.0.0.0  adtago.s3.amazonaws.com
+0.0.0.0  analyticsengine.s3.amazonaws.com
+0.0.0.0  analytics.s3.amazonaws.com
+0.0.0.0  advice-ads.s3.amazonaws.com
+0.0.0.0  advertising-api-eu.amazon.com
+0.0.0.0  app-measurement.com
+0.0.0.0  analytics.google.com
+0.0.0.0  click.googleanalytics.com
+0.0.0.0  events.hotjar.io
+0.0.0.0  freshmarketer.com
+0.0.0.0  fwtracks.freshmarketer.com
+0.0.0.0  notify.bugsnag.com
+0.0.0.0  sessions.bugsnag.com
+0.0.0.0  api.bugsnag.com
+0.0.0.0  app.bugsnag.com
+0.0.0.0  browser.sentry-cdn.com
+0.0.0.0  ads.pinterest.com
+0.0.0.0  log.pinterest.com
+0.0.0.0  analytics.pinterest.com
+0.0.0.0  widgets.pinterest.com
+0.0.0.0  log.byteoversea.com
+0.0.0.0  udc.yahoo.com
+0.0.0.0  udcm.yahoo.com
+0.0.0.0  analytics.query.yahoo.com
+0.0.0.0  partnerads.ysm.yahoo.com
+0.0.0.0  log.fc.yahoo.com
+0.0.0.0  webview.unityads.unity3d.com
+0.0.0.0  geo.yahoo.com
