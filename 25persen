@@ -1,0 +1,30 @@
+#Tambahan untuk adblock list dari StevenBlack/host bawaan Pi-hole
+#Berdasarkan https://d3ward.github.io/toolz/adblock.html
+
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+advertising-api-eu.amazon.com
+app-measurement.com
+analytics.google.com
+click.googleanalytics.com
+events.hotjar.io
+freshmarketer.com
+fwtracks.freshmarketer.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+ads.pinterest.com
+log.pinterest.com
+analytics.pinterest.com
+widgets.pinterest.com
+log.byteoversea.com
+udc.yahoo.com
+udcm.yahoo.com
+analytics.query.yahoo.com
+partnerads.ysm.yahoo.com
+log.fc.yahoo.com
+webview.unityads.unity3d.com
